@@ -12,3 +12,5 @@ The solutions to all the problems are kept simple and straightforward so as to b
   * [Trees](https://github.com/bp274/HackerRank/tree/master/Data%20Structures/Trees)
   * [Stacks](https://github.com/bp274/HackerRank/tree/master/Data%20Structures/Stacks)
   * [Queues](https://github.com/bp274/HackerRank/tree/master/Data%20Structures/Queues)
+* [Python](https://github.com/bp274/HackerRank/tree/master/Python)
+  * [Introduction](https://github.com/bp274/HackerRank/tree/master/Python/Introduction)
