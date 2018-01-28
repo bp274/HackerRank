@@ -4,7 +4,7 @@
 
 ### My solutions to HackerRank questions
 
-The solutions to all the problems are kept simple and straightforward so as to be easily understandable. All the solutions pass all the test cases and give a perfect score for the problem. I will be glad to help if you have any doubts regarding my code. The solutions here may not be the best possible solutions. Thus feel free to make suggestions if you see something that can be improved. 
+The solutions to all the problems are kept simple and straightforward so as to be easily understandable. The solutions here may not be the best possible solutions. Thus feel free to make suggestions if you see something that can be improved. 
 
 * [Data Structures](https://github.com/bp274/HackerRank/tree/master/Data%20Structures)
   * [Arrays](https://github.com/bp274/HackerRank/tree/master/Data%20Structures/Arrays)
