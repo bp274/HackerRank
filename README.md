@@ -4,7 +4,7 @@
 
 ### My solutions to HackerRank questions
 
-The solutions to all the problems are kept simple and straightforward so as to be easily understandable. The solutions here may not be the best possible solutions. Thus feel free to make suggestions if you see something that can be improved. 
+The solutions here may not be the best possible solutions, thus feel free to make suggestions if you see something that can be improved. 
 
 * [30 Days of Code](https://github.com/bp274/HackerRank/tree/master/30%20Days%20of%20Code)
 * [Data Structures](https://github.com/bp274/HackerRank/tree/master/Data%20Structures)
